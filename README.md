@@ -1,4 +1,4 @@
-## Olá, eu sou o sidnei 👋
+## Olá, eu sou o Sidnei 👋
 
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidfanfire37@gmail.com)
 
 
-![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnei2018&theme=algolia&show_icons=true)
+![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnei2018&theme=highcontrast&show_icons=true)
 
 ## Tecnologias que possuo conhecimento
 
