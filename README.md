@@ -15,6 +15,10 @@
 
 ![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnei2018&theme=dark&show_icons=true)
 
+<div style="display: inline_block" width:100px height:100px>
+<img align="right" alt="dormrm" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+</div>
+
 ## Tecnologias que possuo conhecimento
 
 <div style="display: inline_block"><br/>
