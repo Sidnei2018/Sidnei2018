@@ -18,6 +18,8 @@
 
 ![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnei2018&theme=dark&show_icons=true)
 
+![Sidnei Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnei2018&theme=dark&show_icons=true)
+
 
 ## Tecnologias que possuo conhecimento
 
