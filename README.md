@@ -6,7 +6,7 @@
 - 🐱‍🏍 Estudante de Programação Web
 
 
-## Minhas redes e contato
+## Minhas redes e contato 📩
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidneisantosdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidneifsantos3)
@@ -21,7 +21,7 @@
 ![Sidnei Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnei2018&theme=dark&show_icons=true)
 
 
-## Tecnologias que possuo conhecimento
+## Tecnologias que possuo conhecimento 💾📚
 
 <div style="display: inline_block"><br/>
 
@@ -49,7 +49,7 @@
 
 <img align="" alt="" src="">
 
-## Sistema operacional
+## Sistema operacional 🖥🖱
 
 <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
