@@ -1,4 +1,4 @@
-## Hi, I,m Sidnei Santos 👋
+## Olá, eu sou Sidnei Santos 👋
 
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
