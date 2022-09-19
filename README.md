@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🐞 Especialização Analista de testes-QA (Cursando)
-- 🐱‍🏍 Estudante de Programação Web
+- ✔ Estudante de Programação Web
 
 
 ## Minhas redes e contato 📩
