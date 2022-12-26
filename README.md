@@ -12,10 +12,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidneifsantos3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidfanfire37@gmail.com)
 
-<div align= "center">
+<div align= "left">
 <img src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width=495>
-<div>
-
+  
 ![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnei2018&theme=dark&show_icons=true)
 ![Sidnei Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnei2018&theme=dark&show_icons=true)
 
@@ -34,6 +33,7 @@
 <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+<img align="center" alt="Newman" src="" />
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img align="" alt="" src="" />
 
