@@ -12,11 +12,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidneifsantos3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidfanfire37@gmail.com)
 
-<div align= "left">
+<div align= "center">
 <img src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width=495>
   
 ![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnei2018&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnei2018&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 ## Tecnologias que possuo conhecimento 💾📚
 
