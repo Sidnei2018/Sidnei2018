@@ -16,7 +16,8 @@
 <img src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width=495>
   
 ![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnei2018&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnei2018&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ## Tecnologias que possuo conhecimento 💾📚
 
 <div style="display: inline_block"><br/>
