@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🐞 Especialização Analista de testes-QA (Cursando)
+- 🐞 Especialização Analista de testes-QA
 - ✔ Estudante de Programação Web
 
 
